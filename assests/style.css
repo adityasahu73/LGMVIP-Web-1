@@ -196,8 +196,6 @@ ul li span:hover {
   #list li {
     flex-wrap: wrap !important;
   }
-}
-@media screen and (max-width: 430px) {
   .box{
     padding:8px ;
   }
